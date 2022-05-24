@@ -1,5 +1,5 @@
-### Hi there 👋    
-- 🎓 I’m currently studying at CS@UCU'24   
+### Hi there 👋 
+My name is Oleksandra Stasiuk, I’m currently studying at CS@UCU.  
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksadobush&show_icons=true&hide_title=true&count_private=true&disable_animations=false&theme=github_dark&line_height=33&hide_rank=true"/>
