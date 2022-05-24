@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🎓 I’m currently studying at CS@UCU'24
-- 🍳 My skills:
-  Advanced: Python 
-  Intermediate: C/C++, Java, R 
-  Beginner: JS
+- 🍳 My skills:    
+  Advanced: Python      
+  Intermediate: C/C++, Java, R     
+  Beginner: JS    
 
 - 🤔 I’m interested in:
   - Python development
