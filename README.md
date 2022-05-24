@@ -17,5 +17,5 @@ My name is Oleksandra Stasiuk, I’m currently studying at CS@UCU.
 
 
 
-- 📫 How to reach me:
+- 📫 How to reach me:      
 :airplane: [Telegram](https://t.me/Kvera_kolin), :email: oleksandra.stasiuk.w@gmail.com
