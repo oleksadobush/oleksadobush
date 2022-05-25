@@ -1,11 +1,8 @@
 ### Hi there 👋 
 My name is Oleksandra Stasiuk, I’m currently studying at CS@UCU.  
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=oleksadobush&count_private=true&show_icons=true&theme=tokyonight">
-  
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=oleksadobush&count_private=true&show_icons=true&theme=tokyonight">
+
 
 - 🍳 My skills:    
   Advanced: Python      
